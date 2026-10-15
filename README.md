@@ -108,12 +108,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kamirodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamirodev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamirodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10" width="49%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamirodev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%" />
-
 </div>
 
 <br>
