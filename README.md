@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=190&section=header&text=KamiroDev&fontSize=50&fontColor=58A6FF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Cloud%20Automation%20%26%20AI%20Agents&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=190&section=header&text=KamiroDev&fontSize=50&fontColor=58A6FF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Cloud%20Automation%20%2B%20AI%20Agents&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=10%2B+years+building+web%2C+mobile+%26+backend+systems;Cloud+automation+with+Kubernetes+%26+VMware;Building+AI+agents+for+operations+%26+support;.NET+%C2%B7+Go+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+TypeScript" alt="Typing SVG" />
